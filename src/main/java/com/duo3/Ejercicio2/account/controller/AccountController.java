@@ -1,4 +1,4 @@
-package com.duo3.Ejercicio2.transaction.controller;
+package com.duo3.Ejercicio2.account.controller;
 
 import com.duo3.Ejercicio2.account.service.AccountService;
 import jakarta.transaction.Transactional;

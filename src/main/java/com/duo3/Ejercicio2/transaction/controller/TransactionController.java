@@ -1,4 +1,4 @@
-package com.duo3.Ejercicio2.account.controller;
+package com.duo3.Ejercicio2.transaction.controller;
 
 import com.duo3.Ejercicio2.transaction.dto.request.TransactionRequestDTO;
 import com.duo3.Ejercicio2.transaction.dto.response.TransactionResponseDTO;
